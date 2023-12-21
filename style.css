@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(32, 24, 14);
+    color: rgb(63, 33, 12);
+}
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(236, 188, 146);
+    border-radius: 100px 20px;
+    font-size: 24px;
+}
+#date{
+    color: red;
+    font-size: xx-large; 
+    font-family: cursive;
+}
+.heading{
+    font-family: 'lobstar', cursive;
+}
+#title{
+    text-align: center;
+    font-size: 80px;
+    color: rgb(204, 227, 247);
+}
+#span1{
+    color: red;
+}
+#myimage{
+    width: 150px;
+    margin-right: 5%;
+    margin-left: 10%;
+    border-radius: 200px;
+}
+#info{
+    text-indent: 50px;
+   text-align: justify;
+   margin: 0px auto;
+   font-size: 25px;
+   width: 80%;
+}
+#name2{
+    color: rgb(150, 0, 0);
+    margin: 1% 10%;
+}
+ul{
+    width: 80%;
+    margin: auto;
+}
+li{
+    font-size: 24px;
+    line-height: 50px;
+}
+#contact{
+    text-align: center;
+    font-size: 26px;
+    width: 60%;
+    margin: auto;
+    border: 1px solid ;
+    padding: 30px;
+
+}
+#link{
+    text-decoration: none;
+    color: aliceblue;
+    border: 3px solid red;
+    border-radius: 10px; 
+    padding: 15px;
+    background-color: rgb(255, 144, 144);
+    font-family: cursive;
+}
+#link:hover{
+    background-color: aqua;
+    color: black;
+}
+#iletisim{
+    text-align: center;
+    line-height: 100px;
+    letter-spacing: 20px; 
+}
